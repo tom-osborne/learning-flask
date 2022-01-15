@@ -1,3 +1,3 @@
 # Dependencies
-flask \n
-flask-sqlalchemy
+  flask  
+  flask-sqlalchemy  
