@@ -1,4 +1,7 @@
 
+# Custom stuff
+resources/
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,flask,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,flask,visualstudiocode
 
@@ -237,6 +240,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 
 ### VisualStudioCode ###
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
